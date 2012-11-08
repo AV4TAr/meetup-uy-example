@@ -17,3 +17,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+# Pasos a seguir:
+# 1. instalar vagrant
+# 2. generar el ambiente virtual
+#       - las listas de vms se pueden ver aca: http://www.vagrantbox.es/
+#       - instalar la vm que tiene chef:
+#            > vagrant box add squeeze64 https://dl.dropbox.com/u/1543052/Boxes/DebianSqueeze64.box
+# 3. aprovisionar
+#            > vagrant up
+#
